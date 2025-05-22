@@ -5,7 +5,26 @@ This project only used personal for the application project
 
 ## Research Workflow Diagrom
 
-![[![Research Workflow Diagram](assets/Machine%20Learning%20on%20fMRI%20Research%20Workflow%20Diagram%20new.drawio.svg)]]
+![Research Workflow Diagram](assets/Machine%20Learning%20on%20fMRI%20Research%20Workflow%20Diagram%20new.drawio.svg)
+
+## Research result of ROI
+
+![result_1](assets/images/Group-ICA%2520with%2520dictlearn-01.png)
+![result_2](assets/images/Group-ICA%2520with%2520dictlearn-02.png)
+![result_3](assets/images/Group-ICA%2520with%2520dictlearn-03.png)
+
+## Research result of functional connectome
+
+![result_comppair_1](assets/images/compair_canICA_DL_coordinates.PNG)
+
+## Research result of region
+
+![result_region_1](assets/images/correlation_region.PNG)
+
+## Research result of visualization
+
+![result_visualization_1](assets/images/connectome_2d.PNG)
+![result_visualization_2](assets/images/connectome_3d.PNG)
 
 # Origin Source
 
