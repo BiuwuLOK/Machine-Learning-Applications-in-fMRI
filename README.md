@@ -1,7 +1,10 @@
 # Machine-Learning-Apppplications-in-fMRI
 
-Extend application exercises of fmri by nilearn
-This project only used personal for the application project
+This repository showcases practical applications of machine learning techniques on functional MRI (fMRI) data using the Nilearn library. 
+
+It includes hands-on exercises and example workflows such as CanICA, dictionary learning, and functional connectivity analysis, adapted from the official Nilearn documentation.
+
+Please note: This project is intended solely for educational and personal study purposes. It is not for commercial use or distribution.
 
 ## Research Workflow Diagrom
 
