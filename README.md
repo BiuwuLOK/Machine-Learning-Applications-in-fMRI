@@ -1,4 +1,4 @@
-# Nilearn_extend_exsamples_fmri
+# Machine-Learning-Apppplications-in-fMRI
 Extend application exercises of fmri by nilearn
 This project only used personal for the application project
 Origin source coubld be found at nilearn website
