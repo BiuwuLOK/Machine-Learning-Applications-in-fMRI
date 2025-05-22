@@ -13,13 +13,13 @@ This project only used personal for the application project
 ![result_2](assets/images/Group-ICA%2520with%2520dictlearn-02.png)
 ![result_3](assets/images/Group-ICA%2520with%2520dictlearn-03.png)
 
-## Research result of functional connectome
+## Research result of compair
 
-![result_comppair_1](assets/images/compair_canICA_DL_coordinates.PNG)
+![result_comppair_1](assets/images/compair_extrac.PNG)
 
 ## Research result of region
 
-![result_region_1](assets/images/correlation_region.PNG)
+![result_region_1](assets/images/corr_regions_of_DtL.JPG)
 
 ## Research result of visualization
 
